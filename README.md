@@ -1,2 +1,2 @@
-# horas-USM
-Este programa calcula la cantidad de horas por semana que deberá emplear el o la alumna/o en sus estudios en la Universida Técnica Federico Santa María
+# Tools for College
+This repository have a many of tools aplicated in especific work into Universida Técnica Federico Santa María. Actually, have a cup of tools, but as soon as possible I'll upload more.
